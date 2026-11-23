@@ -14,12 +14,10 @@ Fullstack Developer ประสบการณ์ด้านซอฟต์แ
 
 ### Tech Stack
 
-| | |
-|---|---|
-| **Languages** | TypeScript, C#, Python |
-| **Frontend** | Next.js, React |
-| **Backend** | .NET Core (ASP.NET Core), Python |
-| **Databases** | PostgreSQL, MongoDB, Microsoft SQL Server |
+- **Languages:** TypeScript, C#, Python
+- **Frontend:** Next.js, React
+- **Backend:** .NET Core (ASP.NET Core), Python
+- **Databases:** PostgreSQL, MongoDB, Microsoft SQL Server
 
 ### Featured Project
 
