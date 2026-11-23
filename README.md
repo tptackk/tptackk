@@ -47,16 +47,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tptackk&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tptackk&hide_border=true&theme=default" alt="GitHub streak" />
-</p>
-
----
-
 <p align="center">📫 Feel free to reach out · ติดต่อได้ที่ <a href="mailto:teerapat.tp@outlook.com">teerapat.tp@outlook.com</a></p>
